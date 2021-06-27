@@ -74,9 +74,19 @@ while (index < supplyChanges.length) {
 
 // 9. Write a loop to determine the total number of parts available by
 //    adding up all the numbers in the 'supplyChanges' array.
-let count;
-for (l=0; l<supplyChanges.length; l++) {
+
+// Unable to finsih this stretch goal
+
+// console.log('Number 9');
+// let count;
+// for (i=0; i<supplyChanges.length; i++) {
     
-    count = supplyChanges[0]+ supplyChanges[1]+ supplyChanges[2]+ supplyChanges[3]+ supplyChanges[4]+ supplyChanges[5];
-}
-console.log('9. Total supplies available is: '+ count);
+//     count += supplyChanges[i];
+//     console.log('count is ' + count)
+    // count = supplyChanges[0]+ supplyChanges[1]+ supplyChanges[2]+ supplyChanges[3]+ supplyChanges[4]+ supplyChanges[5];
+    // console.log("Hi the answer is: " + count); 
+// }
+
+// console.log('9. Total supplies available is: '+ count);
+
+// supplyChanges = [3, 5, -6, 0, 7, 11];
